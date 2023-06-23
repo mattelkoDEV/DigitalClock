@@ -1,0 +1,35 @@
+h1{
+    font-family: "Bahnschrift";
+    font-size: 200px;
+    padding: 0px;
+    margin: 0px;
+    color: white;
+    
+}
+#dateAndTime{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+body{
+    background-color: black;
+}
+h2{
+    font-family: "Bahnschrift";
+    font-size: 50px;
+    color: #33FF61;
+    padding: 0px;
+    margin: 0px;
+    transition: color 2s ease-out;
+    
+}
+    
+
+    h2:hover {
+        color: #33FFF0;
+        cursor: pointer;
+    }
+
+
